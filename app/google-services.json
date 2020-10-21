@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333421622692",
+    "firebase_url": "https://grouppapp.firebaseio.com",
+    "project_id": "grouppapp",
+    "storage_bucket": "grouppapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333421622692:android:bc1387674b43f56b74fd31",
+        "android_client_info": {
+          "package_name": "com.example.forgotpasswordgp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333421622692-h63cuiqh8nep4vb4iosqaqe58dlv35dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forgotpasswordgp",
+            "certificate_hash": "f0f285598f8229d0e09121577a2061017f67596b"
+          }
+        },
+        {
+          "client_id": "333421622692-jrqsmquloro0spmu4efgbcldqcmkcgda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2l0BVg5TizvaSrW7IbZtJrX6AUzbywNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333421622692-jrqsmquloro0spmu4efgbcldqcmkcgda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
