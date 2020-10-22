@@ -28,7 +28,7 @@ public class UserRegister extends AppCompatActivity {
         rage = (EditText) findViewById(R.id.Registerage);
         rpassword = (EditText) findViewById(R.id.rpassword);
 
-        rbutton = (Button) findViewById(R.id.registerButton);
+        rbutton = (Button) findViewById(R.id.button3);
 
         rbutton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -66,7 +66,7 @@ public class UserRegister extends AppCompatActivity {
         }
 
         if (userpassword.length() < 5) {
-            remail.setError("Password has to be more than 5 characters");
+            rpassword.setError("Password has to be more than 5 characters");
             return;
         }
 
